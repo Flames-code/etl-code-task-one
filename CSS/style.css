@@ -1,0 +1,13 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6em;
+}
+
+#img-with-text p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: normal;
+  color: rgb(19, 144, 153);
+}
+
